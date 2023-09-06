@@ -12,6 +12,7 @@ int face_counter = 0;   // counter to keep track of next new face number
 
 int main(int argc,char* argv[])
 {
+    cout << "HI" << endl;
     ifstream f_vertices;        // file object for reading vertex file
     ifstream f_split;           // file output for reading split file
     ofstream f_output;          // file object for output file
