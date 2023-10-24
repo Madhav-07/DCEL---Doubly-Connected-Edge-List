@@ -1,4 +1,4 @@
-INPUT FILE FORMAT:-
+INPUT FILE FORMAT::-
 1) Vertex file: Takes a pair of 2 numbers for each line. For eg: 1 2
                                                                  7 2
                                                                  7 8
